@@ -13,6 +13,7 @@ $dir = "D:\"
 
 # Defines the name of the Excel file
 $excelFileName = "YOUR_FILE_NAME"
+```
 
 For the second script EXCEL_TO_CSV.ps1, where we convert just one tab of an Excel file, just enter the name of the directory and the name of the file in the script below.
 
